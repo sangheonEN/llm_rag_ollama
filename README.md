@@ -33,7 +33,7 @@ Ollama에서 DeepSeek-r1과 같은 llm 모델을 사전에 설치한 뒤에 소�
 
 1. ollama window version 설치 [1]
 
-2. ollama LLM model download (허깅페이스나 도커 처럼 명령어 있음.)
+2. ollama LLM model download (deepseek활용)
     
     ```python
     ollama run deepseek-r1:14b
