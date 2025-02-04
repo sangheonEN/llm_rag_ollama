@@ -24,9 +24,10 @@ Ollama에서 DeepSeek-r1과 같은 llm 모델을 사전에 설치한 뒤에 소�
 ### 0. python 가상환경 생성 (venv or anaconda)
 
 ### 1. 필수 라이브러리 설치
-
-'''bash
-pip install -r requirements.txt
+    
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ### 2. ollama 설치
 
