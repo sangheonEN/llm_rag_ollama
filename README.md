@@ -29,7 +29,7 @@ Ollama에서 DeepSeek-r1과 같은 llm 모델을 사전에 설치한 뒤에 소�
     pip install -r requirements.txt
     ```
 
-### 2. ollama 설치
+### 2. ollama 설치 (window 기준)
 
 1. ollama window version 설치 [1]
 
