@@ -1,0 +1,5 @@
+pip install ollama==0.4.7
+pip install -U langchain langchain-community
+pip install streamlit
+pip install -U sentence-transformers
+pip install faiss-cpu
